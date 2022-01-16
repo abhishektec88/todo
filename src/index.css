@@ -12,8 +12,9 @@ code {
     monospace;
 }
 
-.fa-trash-alt{
+.icon{
   color: rgb(238, 55, 55);
+  margin-left: 10px;
 }
 
 
