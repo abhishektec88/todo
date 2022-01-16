@@ -26,7 +26,7 @@ export const Form = styled.form`
 margin: 40px 20% auto 20%;
 `;
 
-export const AddButton = styled.button`
+export const PButton = styled.button`
 background-color: rgb(23, 120, 199);
   border: none;
   color: white;
@@ -43,10 +43,18 @@ export const TodoTable = styled.ul`
 `;
 
 export const TodoText = styled.label`
-margin-right: 78%;
+margin-right: 76%;
 margin-bottom: 0px;
 width: 100px;
 `;
+
+export const TodoEdit = styled.input`
+margin-right: 70%;
+margin-bottom: 8px;
+width: 100px;
+`;
+
+
 
 
 
