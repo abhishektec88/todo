@@ -1,6 +1,6 @@
 import React from "react";
-import { Container,Heading } from "./Styled";
 import TodoApp from "./TodoApp";
+import { Container,Heading } from "./Styled";
 
 function index() {
   return (
